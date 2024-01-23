@@ -46,7 +46,7 @@ export default function Products() {
         />
       </form>
       <br />
-      <button onClick={() => handleClick()}>Add Pro</button>
+      <button onClick={() => handleClick()}>Add Product</button>
 
       <h3>Display Music</h3>
 
