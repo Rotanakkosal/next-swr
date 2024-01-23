@@ -48,7 +48,7 @@ export default function Products() {
       <br />
       <button onClick={() => handleClick()}>Add Product</button>
 
-      <h3>Display Music</h3>
+      <h3>Display Product</h3>
 
       {!data ? (
         "No Data"
